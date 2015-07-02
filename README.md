@@ -15,7 +15,7 @@ Where `sofa-block-name` should be the actual name of your block. Here are
 some examples:
 
 - sofa-product-list
-- sofa-catalouge
+- sofa-catalog
 
 Next, navigate to your project and install all dependencies:
 
@@ -44,7 +44,7 @@ Last but not least, don't forget to update the README.
 
 ## Developing
 
-This component seed comes with a few grunt task to make your life easier when
+This component seed comes with a few gulp task to make your life easier when
 developing your block.
 
 - `gulp watch` - Tests your code, builds a production ready version, keeps watching
