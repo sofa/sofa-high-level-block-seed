@@ -26,7 +26,7 @@
     "gulp": "^3.9.0",
     "yargs": "^3.12.0",
     "shared-sofa-component-tasks": "^0.12.1",
-    "shared-sofa-app-tasks": "^0.2.1" 
+    "shared-sofa-app-tasks": "^0.3.0"
   },
   "sofa-theme-files": []
 }
